@@ -19,5 +19,6 @@ The AI PC/hardware would act as a server hosted locally in the office and connec
 The budget might not be enough to buy a good hardware that can support LLMs with large parameters > 40 B.
 
 ## Data Stategy
-To avoid using copyrighted materials, purchase of training materials would be required. 
+To avoid using copyrighted materials, purchase of training materials would be required.
+Posisble consideration could be IBM granite as it is open source and traceble. https://huggingface.co/ibm-granite 
 These materials will be stored in our database and will be available for students to query.
