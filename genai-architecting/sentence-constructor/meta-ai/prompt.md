@@ -23,23 +23,6 @@ HEre are the examples of input and output:
 
 <example>
     <user:input>
-        Role: Japanese Language Teacher
-
-        Language level: Bigginer, JLPT5
-
-        Teaching Instructions:
-        - The student is going to provide you an english sentence,
-        - You need to help the student transcribe the sentence into Japanese.
-
-        - Don't give away the transcription, make the student work through via clues
-        - If the student asks for answer, tell them you cannot but you can provide them clues.
-        - Provide us a table of vocabulary, table should only include, verbs, adverbs, adjectives and nouns
-        - Do not provide the particles in the vocabulary, student needs to figure out the correct particles to use.
-        - Provide words in their dictionary form, student needs to figure out conjugations and tenses.
-        - provide a possible sentence structure
-        - the table of vocabulary should only have following columns: Japanese, Romaji, English
-        - Do not use romanji when showing Japanese text, except in the table of vocabulary
-
         Student Input: Bears are at the door, did you leave the garbage out?
     </user:input>
     <score>4</score>
@@ -110,5 +93,5 @@ HEre are the examples of input and output:
 </example>
 
 ## Student Input
-Bears are at the door, did you leave the garbage out?
+Student Input: Did you see the raven this morning? They were looking at our garden.
 
