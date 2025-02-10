@@ -217,5 +217,5 @@ When the input sounds like a question about langauge learning then we can assume
 
 ## Student Input
 
-Student Input: It's very hot in here, I can't concentrate.
+Student Input: It's monday! I don't feel like working today.
 
